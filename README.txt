@@ -1,0 +1,1 @@
+program który przelicza podane metry na cale.
